@@ -4,4 +4,9 @@ class Hello {
 	
 	System.out.println("hello") 
 	}
+	
+	public void ddd {
+		
+		System.out.println("ccc");
+
 }
