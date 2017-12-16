@@ -10,4 +10,9 @@ class Hello {
 		System.out.println("ccc");
 
 	}
+	
+	public void ddd {
+		
+		System.out.println("ccc");
+
 }
